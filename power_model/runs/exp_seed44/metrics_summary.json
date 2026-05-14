@@ -1,0 +1,40 @@
+{
+  "train": {
+    "mae": 3385.988037109375,
+    "rmse": 4115.016646381883,
+    "r2": 0.9843239188194275
+  },
+  "val": {
+    "mae": 1435.5904541015625,
+    "rmse": 1857.256578935716,
+    "r2": -0.0724031925201416
+  },
+  "test": {
+    "mae": 2487.1669921875,
+    "rmse": 2522.655644355765,
+    "r2": -34.8859977722168
+  },
+  "baseline_val": {
+    "mae": 11990.7392578125,
+    "rmse": 12124.122071308915,
+    "r2": -44.69986343383789
+  },
+  "baseline_test": {
+    "mae": 13027.4482421875,
+    "rmse": 13034.252721195795,
+    "r2": -957.0350341796875
+  },
+  "config": {
+    "dataset_dir": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\graph_dataset",
+    "recipe_index": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\recipe_index.json",
+    "output_dir": "daksh/power_model/runs/exp_seed44",
+    "seed": 44,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "epochs": 200,
+    "batch_size": 16,
+    "lr": 0.001,
+    "hidden_dim": 128,
+    "recipe_emb_dim": 16
+  }
+}

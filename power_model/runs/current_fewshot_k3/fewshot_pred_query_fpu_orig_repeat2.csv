@@ -1,0 +1,14 @@
+id,design_id,recipe_id,y_true,y_pred
+fpu_orig__abc0,fpu_orig,abc0,21356.3203125,18462.02734375
+fpu_orig__abc1,fpu_orig,abc1,21121.970703125,18501.7265625
+fpu_orig__abc10,fpu_orig,abc10,20925.73046875,18446.31640625
+fpu_orig__abc12,fpu_orig,abc12,21137.3203125,18467.6484375
+fpu_orig__abc13,fpu_orig,abc13,20839.119140625,18463.06640625
+fpu_orig__abc15,fpu_orig,abc15,21095.5703125,18519.904296875
+fpu_orig__abc2,fpu_orig,abc2,20420.5390625,18468.30859375
+fpu_orig__abc3,fpu_orig,abc3,20917.330078125,18462.6640625
+fpu_orig__abc5,fpu_orig,abc5,20640.609375,18421.359375
+fpu_orig__abc6,fpu_orig,abc6,20681.23046875,18512.9140625
+fpu_orig__abc7,fpu_orig,abc7,20829.919921875,18458.587890625
+fpu_orig__abc8,fpu_orig,abc8,20717.7890625,18473.3203125
+fpu_orig__abc9,fpu_orig,abc9,20716.890625,18393.30859375

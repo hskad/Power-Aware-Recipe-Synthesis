@@ -1,0 +1,52 @@
+{
+  "train": {
+    "mae": 5822.67236328125,
+    "rmse": 14400.493324883006,
+    "r2": 0.5467873811721802
+  },
+  "val": {
+    "mae": 492.6357421875,
+    "rmse": 540.7532940260281,
+    "r2": 0.1948472261428833
+  },
+  "test": {
+    "mae": 3114.71875,
+    "rmse": 3625.420665247,
+    "r2": -0.059526681900024414
+  },
+  "baseline_val": {
+    "mae": 15004.076171875,
+    "rmse": 15016.174213160954,
+    "r2": -619.866943359375
+  },
+  "baseline_test": {
+    "mae": 3888.587890625,
+    "rmse": 4039.5061579356457,
+    "r2": -0.31538116931915283
+  },
+  "config": {
+    "dataset_dir": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\graph_dataset",
+    "recipe_index": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\recipe_index.json",
+    "output_dir": "daksh/power_model/runs/final_train_42",
+    "seed": 42,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "epochs": 120,
+    "batch_size": 16,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "loss": "huber",
+    "target_transform": "log1p",
+    "hidden_dim": 128,
+    "recipe_emb_dim": 16,
+    "dropout": 0.2,
+    "eval_mode": "standard",
+    "k_shot": 3,
+    "fewshot_epochs": 20,
+    "fewshot_lr": 0.001,
+    "fewshot_weight_decay": 0.0,
+    "fewshot_repeats": 3,
+    "lodo_seed": 101,
+    "fewshot_tune_recipe_embedding": false
+  }
+}

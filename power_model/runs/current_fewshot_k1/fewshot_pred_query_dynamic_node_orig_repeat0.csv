@@ -1,0 +1,16 @@
+id,design_id,recipe_id,y_true,y_pred
+dynamic_node_orig__abc0,dynamic_node_orig,abc0,20458.470703125,19859.28515625
+dynamic_node_orig__abc10,dynamic_node_orig,abc10,21075.1796875,19877.390625
+dynamic_node_orig__abc11,dynamic_node_orig,abc11,21026.919921875,19884.060546875
+dynamic_node_orig__abc12,dynamic_node_orig,abc12,21647.220703125,19832.30078125
+dynamic_node_orig__abc13,dynamic_node_orig,abc13,20899.349609375,19959.51953125
+dynamic_node_orig__abc14,dynamic_node_orig,abc14,19694.009765625,19936.515625
+dynamic_node_orig__abc15,dynamic_node_orig,abc15,20685.009765625,19953.927734375
+dynamic_node_orig__abc2,dynamic_node_orig,abc2,22210.720703125,19894.984375
+dynamic_node_orig__abc3,dynamic_node_orig,abc3,20813.0390625,19910.47265625
+dynamic_node_orig__abc4,dynamic_node_orig,abc4,22217.580078125,19890.322265625
+dynamic_node_orig__abc5,dynamic_node_orig,abc5,20114.669921875,19889.22265625
+dynamic_node_orig__abc6,dynamic_node_orig,abc6,19877.390625,19956.369140625
+dynamic_node_orig__abc7,dynamic_node_orig,abc7,20170.51953125,19896.85546875
+dynamic_node_orig__abc8,dynamic_node_orig,abc8,21838.779296875,19886.9453125
+dynamic_node_orig__abc9,dynamic_node_orig,abc9,21247.91015625,19832.55859375

@@ -1,0 +1,3 @@
+id,design_id,recipe_id,y_true,y_pred
+mem_ctrl_orig__abc1,mem_ctrl_orig,abc1,7416.4501953125,6107.1171875
+mem_ctrl_orig__abc6,mem_ctrl_orig,abc6,7201.75,5267.78125

@@ -1,0 +1,12 @@
+id,design_id,recipe_id,y_true,y_pred
+aes_secworks_orig__abc1,aes_secworks_orig,abc1,21912.390625,23180.482421875
+aes_secworks_orig__abc12,aes_secworks_orig,abc12,23448.2890625,23145.251953125
+aes_secworks_orig__abc13,aes_secworks_orig,abc13,22725.7890625,23170.333984375
+aes_secworks_orig__abc14,aes_secworks_orig,abc14,22752.05078125,23152.298828125
+aes_secworks_orig__abc3,aes_secworks_orig,abc3,23379.05078125,23146.033203125
+aes_secworks_orig__abc4,aes_secworks_orig,abc4,22328.669921875,23208.50390625
+aes_secworks_orig__abc5,aes_secworks_orig,abc5,22914.779296875,23143.84765625
+aes_secworks_orig__abc6,aes_secworks_orig,abc6,23425.2890625,23214.998046875
+aes_secworks_orig__abc7,aes_secworks_orig,abc7,23413.740234375,23125.30859375
+aes_secworks_orig__abc8,aes_secworks_orig,abc8,23495.279296875,23179.064453125
+aes_secworks_orig__abc9,aes_secworks_orig,abc9,22862.5,23103.91796875

@@ -1,0 +1,6 @@
+id,design_id,recipe_id,y_true,y_pred
+multiplier_orig__abc0,multiplier_orig,abc0,17935.83984375,22379.7578125
+multiplier_orig__abc1,multiplier_orig,abc1,19196.439453125,16139.9306640625
+multiplier_orig__abc5,multiplier_orig,abc5,19202.5390625,16881.142578125
+multiplier_orig__abc7,multiplier_orig,abc7,19335.900390625,17117.6015625
+multiplier_orig__abc8,multiplier_orig,abc8,18921.51953125,16199.365234375

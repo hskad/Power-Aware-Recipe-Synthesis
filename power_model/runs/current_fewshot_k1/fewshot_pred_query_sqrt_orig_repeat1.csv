@@ -1,0 +1,16 @@
+id,design_id,recipe_id,y_true,y_pred
+sqrt_orig__abc0,sqrt_orig,abc0,21498.80078125,19020.37890625
+sqrt_orig__abc1,sqrt_orig,abc1,17834.98046875,19022.060546875
+sqrt_orig__abc10,sqrt_orig,abc10,21624.619140625,19016.275390625
+sqrt_orig__abc11,sqrt_orig,abc11,21543.009765625,19014.212890625
+sqrt_orig__abc12,sqrt_orig,abc12,21818.9609375,19041.078125
+sqrt_orig__abc13,sqrt_orig,abc13,23849.970703125,18998.015625
+sqrt_orig__abc14,sqrt_orig,abc14,26239.880859375,19035.59375
+sqrt_orig__abc2,sqrt_orig,abc2,20070.4296875,19038.6328125
+sqrt_orig__abc3,sqrt_orig,abc3,22449.0703125,19053.3671875
+sqrt_orig__abc4,sqrt_orig,abc4,20993.099609375,19023.1171875
+sqrt_orig__abc5,sqrt_orig,abc5,20891.359375,19042.34375
+sqrt_orig__abc6,sqrt_orig,abc6,21364.109375,19025.857421875
+sqrt_orig__abc7,sqrt_orig,abc7,18178.25,19031.658203125
+sqrt_orig__abc8,sqrt_orig,abc8,20153.859375,19059.046875
+sqrt_orig__abc9,sqrt_orig,abc9,16500.720703125,18997.98046875

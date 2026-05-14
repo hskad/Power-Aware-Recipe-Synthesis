@@ -1,0 +1,16 @@
+id,design_id,recipe_id,y_true,y_pred
+aes_xcrypt_orig__abc0,aes_xcrypt_orig,abc0,20505.69921875,22197.65625
+aes_xcrypt_orig__abc1,aes_xcrypt_orig,abc1,20862.08984375,22258.4609375
+aes_xcrypt_orig__abc10,aes_xcrypt_orig,abc10,21778.060546875,22272.1484375
+aes_xcrypt_orig__abc11,aes_xcrypt_orig,abc11,20850.310546875,22169.291015625
+aes_xcrypt_orig__abc12,aes_xcrypt_orig,abc12,21617.259765625,22241.1875
+aes_xcrypt_orig__abc14,aes_xcrypt_orig,abc14,21924.759765625,22181.140625
+aes_xcrypt_orig__abc15,aes_xcrypt_orig,abc15,21285.5,22224.06640625
+aes_xcrypt_orig__abc2,aes_xcrypt_orig,abc2,21305.689453125,22275.4921875
+aes_xcrypt_orig__abc3,aes_xcrypt_orig,abc3,21453.25,22172.134765625
+aes_xcrypt_orig__abc4,aes_xcrypt_orig,abc4,21701.880859375,22258.154296875
+aes_xcrypt_orig__abc5,aes_xcrypt_orig,abc5,21264.580078125,22198.3203125
+aes_xcrypt_orig__abc6,aes_xcrypt_orig,abc6,21725.609375,22223.5
+aes_xcrypt_orig__abc7,aes_xcrypt_orig,abc7,21525.470703125,22216.923828125
+aes_xcrypt_orig__abc8,aes_xcrypt_orig,abc8,20879.33984375,22244.1171875
+aes_xcrypt_orig__abc9,aes_xcrypt_orig,abc9,21056.119140625,22183.724609375

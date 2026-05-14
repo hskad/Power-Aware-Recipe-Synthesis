@@ -1,0 +1,10 @@
+id,design_id,recipe_id,y_true,y_pred
+jpeg_orig__abc0,jpeg_orig,abc0,100427.9296875,89464.375
+jpeg_orig__abc1,jpeg_orig,abc1,101516.2109375,89481.8046875
+jpeg_orig__abc2,jpeg_orig,abc2,96564.703125,89475.9296875
+jpeg_orig__abc3,jpeg_orig,abc3,100099.0390625,89491.7578125
+jpeg_orig__abc4,jpeg_orig,abc4,100170.546875,89482.7421875
+jpeg_orig__abc5,jpeg_orig,abc5,101855.2734375,89500.5859375
+jpeg_orig__abc7,jpeg_orig,abc7,98042.796875,89473.7109375
+jpeg_orig__abc8,jpeg_orig,abc8,100736.9609375,89498.875
+jpeg_orig__abc9,jpeg_orig,abc9,99597.3828125,89471.4921875

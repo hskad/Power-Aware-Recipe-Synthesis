@@ -1,0 +1,14 @@
+id,design_id,recipe_id,y_true,y_pred
+des3_area_orig__abc10,des3_area_orig,abc10,3526.760009765625,1807.795654296875
+des3_area_orig__abc11,des3_area_orig,abc11,3655.3701171875,1765.810302734375
+des3_area_orig__abc12,des3_area_orig,abc12,3802.389892578125,1756.002197265625
+des3_area_orig__abc13,des3_area_orig,abc13,3742.080078125,1757.6552734375
+des3_area_orig__abc14,des3_area_orig,abc14,3883.919921875,1793.698974609375
+des3_area_orig__abc15,des3_area_orig,abc15,3742.81005859375,1779.907958984375
+des3_area_orig__abc3,des3_area_orig,abc3,3623.340087890625,1754.896728515625
+des3_area_orig__abc4,des3_area_orig,abc4,3708.93994140625,1788.629638671875
+des3_area_orig__abc5,des3_area_orig,abc5,3628.3798828125,1757.908447265625
+des3_area_orig__abc6,des3_area_orig,abc6,3823.199951171875,1759.908447265625
+des3_area_orig__abc7,des3_area_orig,abc7,3719.929931640625,1689.3883056640625
+des3_area_orig__abc8,des3_area_orig,abc8,3665.419921875,1784.2520751953125
+des3_area_orig__abc9,des3_area_orig,abc9,3675.429931640625,1677.26953125

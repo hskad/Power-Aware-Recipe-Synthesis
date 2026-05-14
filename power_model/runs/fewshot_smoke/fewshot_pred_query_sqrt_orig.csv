@@ -1,0 +1,8 @@
+id,design_id,recipe_id,y_true,y_pred
+sqrt_orig__abc0,sqrt_orig,abc0,21498.80078125,1211.298095703125
+sqrt_orig__abc1,sqrt_orig,abc1,17834.98046875,1204.021728515625
+sqrt_orig__abc2,sqrt_orig,abc2,20070.4296875,1210.171142578125
+sqrt_orig__abc3,sqrt_orig,abc3,22449.0703125,1200.3773193359375
+sqrt_orig__abc4,sqrt_orig,abc4,20993.099609375,1206.9063720703125
+sqrt_orig__abc6,sqrt_orig,abc6,21364.109375,1210.1961669921875
+sqrt_orig__abc9,sqrt_orig,abc9,16500.720703125,1211.23486328125

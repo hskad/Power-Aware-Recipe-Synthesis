@@ -1,0 +1,16 @@
+id,design_id,recipe_id,y_true,y_pred
+aes_orig__abc0,aes_orig,abc0,18304.119140625,18972.013671875
+aes_orig__abc1,aes_orig,abc1,19304.2890625,18969.865234375
+aes_orig__abc10,aes_orig,abc10,19532.75,19028.14453125
+aes_orig__abc11,aes_orig,abc11,18073.369140625,18944.640625
+aes_orig__abc12,aes_orig,abc12,18810.73046875,19002.7109375
+aes_orig__abc14,aes_orig,abc14,18903.830078125,18968.73046875
+aes_orig__abc15,aes_orig,abc15,18683.83984375,18997.625
+aes_orig__abc2,aes_orig,abc2,19242.5,18960.791015625
+aes_orig__abc3,aes_orig,abc3,19662.51953125,18980.43359375
+aes_orig__abc4,aes_orig,abc4,18557.5,19017.419921875
+aes_orig__abc5,aes_orig,abc5,19741.609375,18924.146484375
+aes_orig__abc6,aes_orig,abc6,20023.689453125,18985.701171875
+aes_orig__abc7,aes_orig,abc7,18539.91015625,18929.248046875
+aes_orig__abc8,aes_orig,abc8,18655.94921875,18970.966796875
+aes_orig__abc9,aes_orig,abc9,18451.919921875,18912.2578125

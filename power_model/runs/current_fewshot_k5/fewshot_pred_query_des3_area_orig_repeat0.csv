@@ -1,0 +1,12 @@
+id,design_id,recipe_id,y_true,y_pred
+des3_area_orig__abc0,des3_area_orig,abc0,3844.1298828125,2226.56787109375
+des3_area_orig__abc1,des3_area_orig,abc1,3709.3701171875,2313.330078125
+des3_area_orig__abc13,des3_area_orig,abc13,3742.080078125,2246.599609375
+des3_area_orig__abc14,des3_area_orig,abc14,3883.919921875,2222.463623046875
+des3_area_orig__abc15,des3_area_orig,abc15,3742.81005859375,2313.95068359375
+des3_area_orig__abc2,des3_area_orig,abc2,3638.199951171875,2247.404296875
+des3_area_orig__abc3,des3_area_orig,abc3,3623.340087890625,2259.296630859375
+des3_area_orig__abc5,des3_area_orig,abc5,3628.3798828125,2256.404541015625
+des3_area_orig__abc6,des3_area_orig,abc6,3823.199951171875,2273.7724609375
+des3_area_orig__abc7,des3_area_orig,abc7,3719.929931640625,2225.0078125
+des3_area_orig__abc9,des3_area_orig,abc9,3675.429931640625,2112.575439453125

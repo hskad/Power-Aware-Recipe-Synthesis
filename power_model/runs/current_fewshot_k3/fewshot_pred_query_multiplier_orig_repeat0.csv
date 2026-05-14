@@ -1,0 +1,14 @@
+id,design_id,recipe_id,y_true,y_pred
+multiplier_orig__abc0,multiplier_orig,abc0,17935.83984375,18358.740234375
+multiplier_orig__abc10,multiplier_orig,abc10,18743.0,18409.58203125
+multiplier_orig__abc11,multiplier_orig,abc11,19073.990234375,18395.8671875
+multiplier_orig__abc13,multiplier_orig,abc13,18564.08984375,18382.57421875
+multiplier_orig__abc15,multiplier_orig,abc15,18910.240234375,18386.8046875
+multiplier_orig__abc2,multiplier_orig,abc2,19299.2109375,18390.0546875
+multiplier_orig__abc3,multiplier_orig,abc3,18415.740234375,18467.66015625
+multiplier_orig__abc4,multiplier_orig,abc4,19065.9609375,18413.810546875
+multiplier_orig__abc5,multiplier_orig,abc5,19202.5390625,18290.55078125
+multiplier_orig__abc6,multiplier_orig,abc6,19155.779296875,18429.99609375
+multiplier_orig__abc7,multiplier_orig,abc7,19335.900390625,18337.94140625
+multiplier_orig__abc8,multiplier_orig,abc8,18921.51953125,18433.013671875
+multiplier_orig__abc9,multiplier_orig,abc9,19038.650390625,18322.71875

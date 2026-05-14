@@ -1,0 +1,229 @@
+{
+  "mode": "fewshot_lodo",
+  "k_shot": 5,
+  "design_count": 10,
+  "zero_shot_mean_mae": 12975.321154785157,
+  "fewshot_mean_mae": 4618.934463500977,
+  "improvement_pct": 64.40215692235437,
+  "per_design": {
+    "ethernet_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 57600.2109375,
+        "rmse": 57605.99302155983,
+        "r2": -4991.14306640625
+      },
+      "fewshot_query": {
+        "mae": 19545.76953125,
+        "rmse": 19552.70538825766,
+        "r2": -1430.4434814453125
+      },
+      "fewshot_support": {
+        "mae": 20105.044921875,
+        "rmse": 20127.441963647543,
+        "r2": -447.0115661621094
+      }
+    },
+    "fpu_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 8595.546875,
+        "rmse": 8600.105580747251,
+        "r2": -915.8438720703125
+      },
+      "fewshot_query": {
+        "mae": 3828.180908203125,
+        "rmse": 3840.5767795996476,
+        "r2": -154.18629455566406
+      },
+      "fewshot_support": {
+        "mae": 3786.483154296875,
+        "rmse": 3794.350273762295,
+        "r2": -220.06167602539062
+      }
+    },
+    "jpeg_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 25185.212890625,
+        "rmse": 25257.762371199868,
+        "r2": -172.4236297607422
+      },
+      "fewshot_query": {
+        "mae": 2501.940673828125,
+        "rmse": 2604.024097430744,
+        "r2": -11.78650188446045
+      },
+      "fewshot_support": {
+        "mae": 2260.22021484375,
+        "rmse": 2893.2466192842944,
+        "r2": -0.332103967666626
+      }
+    },
+    "log2_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 2017.1099853515625,
+        "rmse": 2061.589071565912,
+        "r2": -22.69049644470215
+      },
+      "fewshot_query": {
+        "mae": 450.7261657714844,
+        "rmse": 524.4753330710606,
+        "r2": -1.104219913482666
+      },
+      "fewshot_support": {
+        "mae": 292.90704345703125,
+        "rmse": 395.6576408335873,
+        "r2": 0.005948364734649658
+      }
+    },
+    "max_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 15453.814453125,
+        "rmse": 15454.82707764794,
+        "r2": -7859.39111328125
+      },
+      "fewshot_query": {
+        "mae": 10237.21875,
+        "rmse": 10239.242940764712,
+        "r2": -2729.131591796875
+      },
+      "fewshot_support": {
+        "mae": 10252.630859375,
+        "rmse": 10253.670952395538,
+        "r2": -4815.29833984375
+      }
+    },
+    "mem_ctrl_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 2,
+      "zero_shot": {
+        "mae": 4254.55419921875,
+        "rmse": 4270.284768021917,
+        "r2": -133.5684356689453
+      },
+      "fewshot_query": {
+        "mae": 841.9990234375,
+        "rmse": 842.4767059094276,
+        "r2": -1005.138427734375
+      },
+      "fewshot_support": {
+        "mae": 1349.192138671875,
+        "rmse": 1390.6851728554525,
+        "r2": -15.692502975463867
+      }
+    },
+    "multiplier_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 5963.8466796875,
+        "rmse": 5978.474052799761,
+        "r2": -200.55325317382812
+      },
+      "fewshot_query": {
+        "mae": 1884.765625,
+        "rmse": 1951.8235704079402,
+        "r2": -13.677411079406738
+      },
+      "fewshot_support": {
+        "mae": 1962.2210693359375,
+        "rmse": 1983.8632765389857,
+        "r2": -41.69810104370117
+      }
+    },
+    "sha256_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 6371.16650390625,
+        "rmse": 6497.9892274456715,
+        "r2": -24.918058395385742
+      },
+      "fewshot_query": {
+        "mae": 3625.81103515625,
+        "rmse": 3863.6111346769876,
+        "r2": -7.572226524353027
+      },
+      "fewshot_support": {
+        "mae": 3721.49365234375,
+        "rmse": 3915.5415972761675,
+        "r2": -9.143051147460938
+      }
+    },
+    "sqrt_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 1468.898193359375,
+        "rmse": 2050.3854515675825,
+        "r2": -0.30702924728393555
+      },
+      "fewshot_query": {
+        "mae": 2286.40673828125,
+        "rmse": 2363.0943696771824,
+        "r2": -0.2830289602279663
+      },
+      "fewshot_support": {
+        "mae": 1118.7144775390625,
+        "rmse": 1190.8321670159905,
+        "r2": 0.012556672096252441
+      }
+    },
+    "square_orig": {
+      "k_shot": 5,
+      "n_support": 5,
+      "n_query": 5,
+      "zero_shot": {
+        "mae": 2842.850830078125,
+        "rmse": 3090.865412792993,
+        "r2": -5.492738246917725
+      },
+      "fewshot_query": {
+        "mae": 986.5261840820312,
+        "rmse": 1101.0734534989026,
+        "r2": -0.12177383899688721
+      },
+      "fewshot_support": {
+        "mae": 1294.8023681640625,
+        "rmse": 1346.5974714071017,
+        "r2": -0.006917357444763184
+      }
+    }
+  },
+  "config": {
+    "dataset_dir": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\graph_dataset",
+    "recipe_index": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\recipe_index.json",
+    "output_dir": "daksh/power_model/runs/fewshot_k5",
+    "seed": 42,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "epochs": 120,
+    "batch_size": 16,
+    "lr": 0.001,
+    "hidden_dim": 128,
+    "recipe_emb_dim": 16,
+    "eval_mode": "fewshot_lodo",
+    "k_shot": 5,
+    "fewshot_epochs": 30,
+    "fewshot_lr": 0.001,
+    "lodo_seed": 101,
+    "fewshot_tune_recipe_embedding": false
+  }
+}

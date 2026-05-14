@@ -1,0 +1,6 @@
+id,design_id,recipe_id,y_true,y_pred
+ethernet_orig__abc0,ethernet_orig,abc0,68907.6796875,81697.1171875
+ethernet_orig__abc1,ethernet_orig,abc1,71425.046875,72534.859375
+ethernet_orig__abc4,ethernet_orig,abc4,70491.0,80650.4921875
+ethernet_orig__abc8,ethernet_orig,abc8,69809.7734375,70181.71875
+ethernet_orig__abc9,ethernet_orig,abc9,69384.3828125,64247.93359375

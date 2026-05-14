@@ -1,0 +1,6 @@
+id,design_id,recipe_id,y_true,y_pred
+max_orig__abc3,max_orig,abc3,3143.510009765625,13047.4697265625
+max_orig__abc4,max_orig,abc4,2916.8701171875,13060.9541015625
+max_orig__abc6,max_orig,abc6,2774.919921875,13059.5068359375
+max_orig__abc7,max_orig,abc7,2581.050048828125,13027.4306640625
+max_orig__abc8,max_orig,abc8,2682.75,13067.048828125

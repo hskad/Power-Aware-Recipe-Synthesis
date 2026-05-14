@@ -1,0 +1,10 @@
+id,design_id,recipe_id,y_true,y_pred
+mem_ctrl_orig__abc0,mem_ctrl_orig,abc0,525.9400024414062,9643.908203125
+mem_ctrl_orig__abc1,mem_ctrl_orig,abc1,7416.4501953125,9705.8486328125
+mem_ctrl_orig__abc11,mem_ctrl_orig,abc11,7582.009765625,9712.880859375
+mem_ctrl_orig__abc13,mem_ctrl_orig,abc13,7766.89990234375,9706.53125
+mem_ctrl_orig__abc2,mem_ctrl_orig,abc2,8095.72998046875,9723.8046875
+mem_ctrl_orig__abc4,mem_ctrl_orig,abc4,7778.4501953125,9711.98828125
+mem_ctrl_orig__abc5,mem_ctrl_orig,abc5,7996.509765625,9679.119140625
+mem_ctrl_orig__abc6,mem_ctrl_orig,abc6,7201.75,9700.0751953125
+mem_ctrl_orig__abc8,mem_ctrl_orig,abc8,8178.66015625,9692.9130859375

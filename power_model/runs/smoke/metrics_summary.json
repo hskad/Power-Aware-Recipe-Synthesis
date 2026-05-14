@@ -1,0 +1,40 @@
+{
+  "train": {
+    "mae": 22423.333984375,
+    "rmse": 29257.35299031681,
+    "r2": -1.4227514266967773
+  },
+  "val": {
+    "mae": 100269.671875,
+    "rmse": 100288.00510529662,
+    "r2": -2733.11328125
+  },
+  "test": {
+    "mae": 7837.67724609375,
+    "rmse": 7846.319901711885,
+    "r2": -453.3196716308594
+  },
+  "baseline_val": {
+    "mae": 77862.0546875,
+    "rmse": 77885.67293154755,
+    "r2": -1648.0494384765625
+  },
+  "baseline_test": {
+    "mae": 14587.9716796875,
+    "rmse": 14592.617311503787,
+    "r2": -1570.43310546875
+  },
+  "config": {
+    "dataset_dir": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\graph_dataset",
+    "recipe_index": "C:\\Users\\daksh\\Desktop\\Semester 6\\CS533 - ML for EDA\\abc-master\\daksh\\recipe_index.json",
+    "output_dir": "daksh/power_model/runs/smoke",
+    "seed": 7,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "epochs": 5,
+    "batch_size": 16,
+    "lr": 0.001,
+    "hidden_dim": 128,
+    "recipe_emb_dim": 16
+  }
+}

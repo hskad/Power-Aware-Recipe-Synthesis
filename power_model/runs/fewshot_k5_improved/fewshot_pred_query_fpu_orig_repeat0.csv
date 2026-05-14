@@ -1,0 +1,6 @@
+id,design_id,recipe_id,y_true,y_pred
+fpu_orig__abc0,fpu_orig,abc0,21356.3203125,21635.701171875
+fpu_orig__abc2,fpu_orig,abc2,20420.5390625,22207.517578125
+fpu_orig__abc6,fpu_orig,abc6,20681.23046875,24918.275390625
+fpu_orig__abc7,fpu_orig,abc7,20829.919921875,23295.333984375
+fpu_orig__abc8,fpu_orig,abc8,20717.7890625,30291.19921875
