@@ -5,7 +5,6 @@
 This project trains a **machine learning power prediction model** on circuit synthesis recipes and uses **simulated annealing (SA) to search for optimal synthesis recipes** that minimize predicted power consumption. The system integrates with the ABC synthesis tool, Yosys for logic mapping, and OpenROAD for physical-level power estimation.
 
 **Key Results:** On 8 evaluated designs, the SA-based method outperformed standard ABC baselines (syn, syn2, syn3) in all cases, with 18%–52% improvement over the best baseline and 32.9% average improvement.
-asda
 ---
 
 ## Table of Contents
